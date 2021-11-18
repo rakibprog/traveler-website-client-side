@@ -1,0 +1,20 @@
+.news-subtitle {
+    color: #14b9d5;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.news-title {
+    color: #1e272e;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.travel-news .card-img-top {
+    height: 300px;
+    object-fit: cover;
+}

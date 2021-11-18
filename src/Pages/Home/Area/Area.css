@@ -1,0 +1,21 @@
+.drones .card {
+    border: none !important;
+}
+
+.drones {
+    background-color: gray;
+}
+
+.drones .card-title {
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.drones .card-text {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
